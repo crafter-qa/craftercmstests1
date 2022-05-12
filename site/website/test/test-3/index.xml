@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/category-landing</content-type>
+	<display-template>/templates/web/pages/category-landing.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>af0f</objectGroupId>
+	<objectId>af0fc9b9-5165-f5ec-eae7-1432375e7590</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>test-3</folder-name>
+	<internal-name>Test-3</internal-name>
+	<title_t>Test-3</title_t>
+	<articles_title_t>Test-3</articles_title_t>
+	<disabled>false</disabled>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<header_o item-list="true"/>
+	<left_rail_o item-list="true"/>
+	<category_s>entertainment</category_s>
+	<max_articles_i>10</max_articles_i>
+	<createdDate>2022-05-12T19:29:52.716Z</createdDate>
+	<createdDate_dt>2022-05-12T19:29:52.716Z</createdDate_dt>
+	<lastModifiedDate>2022-05-12T19:29:52.716Z</lastModifiedDate>
+	<lastModifiedDate_dt>2022-05-12T19:29:52.716Z</lastModifiedDate_dt>
+</page>
